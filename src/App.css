@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.Navbar{
+  height: 50px;
+  background-color: black;
+  color: #fff;
+}
+
+.Navbar{
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-row-gap: 50px;
+}
+
+.Navbar h3{
+  margin-top: 11px;
+  }
+
+  .Navbar p{
+    margin-top: 11px;
+    }

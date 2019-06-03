@@ -1,0 +1,27 @@
+{
+  "name": "context-api",
+  "version": "1.0.0",
+  "description": "create contact API",
+  "main": "index.js",
+  "scripts": {
+    "start": "set PORT=9999 && react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sasikumar95/React-Context-API.git"
+  },
+  "author": "SASIKUMAR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sasikumar95/React-Context-API/issues"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "3.0.0"
+  },
+  "homepage": "https://github.com/Sasikumar95/React-Context-API#readme"
+}
